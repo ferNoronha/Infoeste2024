@@ -1,7 +1,3 @@
-# Infoeste2024
-Curso Infoeste 2024
-
-
 - desabilitar elasticsearch https
 
 - criar o env para os jupyters de DS 
