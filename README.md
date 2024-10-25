@@ -11,5 +11,5 @@ Curso Infoeste 2024
 -http://localhost:8000/docs#
 
 uvicorn main:app --reload
-
+criando env python -m venv env/fastapienv
 usar uma imagem do filme de teste
